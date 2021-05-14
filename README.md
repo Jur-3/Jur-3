@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jur-3
-- 👀 I’m interested in html,css,php,mysql
-- 🌱 I’m currently learning php-symfony
+- 👀 I’m interested in Html, Css, JavaScript.
+- 🌱 I’m currently learning Html, Css, JavaScript.
    
    Juraj
